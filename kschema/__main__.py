@@ -1,3 +1,7 @@
+AUTHOR = '''
+Julian Levi - 5/8/20
+'''
+
 DOCS = '''
 namespace: a fully qualified name that avoids schema naming conflicts
 type: Avro data type, for example, record, enum, union, array, map, or fixed
