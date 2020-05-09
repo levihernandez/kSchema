@@ -21,8 +21,8 @@ sqlite> CREATE TABLE demo1 (
     name INTEGER,
     "last" INTEGER,
     price NUMERIC)'
-sqlite> insert into demo1 values(1, 'John','doe', 12322.12);
-sqlite> insert into demo1 values(2, 'Jane','doe', 12322);
+sqlite> insert into demo1 values(1, 'John','doe', 234.99);
+sqlite> insert into demo1 values(2, 'Jane','doe', 10000.03);
 (1, 'John', 'Doe', 234.99)
 (2, 'Jane', 'Doe', 10000.03)
 ```
