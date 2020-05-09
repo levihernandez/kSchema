@@ -23,7 +23,7 @@ Generate AVRO Schema
 
 import sqlite3
 import json
-import sqlite as s
+import sqlitelib as s
 
 conn = sqlite3.connect('data/db/kschema_demo.db')
 c = conn.cursor()
